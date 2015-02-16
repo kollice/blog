@@ -18,6 +18,10 @@
     "cookie-session":"*",
     "mongoose":"*",
     "connect-flash":"*",
+    "markdown":"*",
+    "passport":"*",
+    "passport-github":"*",
+    "async":"*",
     "serve-favicon": "~2.2.0"
   }
 }
